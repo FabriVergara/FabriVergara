@@ -1,6 +1,6 @@
 # ¡Hola , gracias por tu visita! Soy Fabricio Vergara Mateo 👋🏽👨🏽‍💻
 
-🔭 Soy un Programador Full-Stack, con preferencia en Back-End, aunque tambien puedo hacer parte de Front-End. Intento especializarme de forma permanente en Java (odiado en un principio y adorado en estos momentos). Permanentemente intento mejorar y aprender en un mundo tecnologico que parece infinito. Apasionado por los Videojuegos, tecnologia, computadoras.
+🔭 Soy un Programador Full-Stack, con preferencia en Back-End, aunque tambien puedo hacer parte de Front-End. Busco especializarme continuamente en Java (odiado en un principio y adorado en estos momentos). Permanentemente intento mejorar y aprender en un mundo tecnologico que parece infinito, lleno de desafios y muchos caminos para elegir. Apasionado por los Videojuegos (sobre todo), tecnologia, computadoras.
 
 
 ## Las tecnologias que utilizo son: 
